@@ -1,1 +1,1 @@
-https://xss.bxdman.com/shellcode
+https://xss.bxdman.com/apollo.bin
